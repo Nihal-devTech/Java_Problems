@@ -1,0 +1,2 @@
+snooze,to put to sleep temporarily
+run,to move quickly
